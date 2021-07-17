@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Irani_Chai__c.Amount__c</members>
+        <members>Irani_Chai__c.Each_Tea_Cost__c</members>
+        <members>Irani_Chai__c.Green_Tea__c</members>
+        <members>Irani_Chai__c.Lemon_Tea__c</members>
+        <members>Irani_Chai__c.Num_of_Tea_s_Ordered__c</members>
+        <members>Irani_Chai__c.Total_Amount__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Irani_Chai__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Irani_Chai__c-Irani Chai Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>51.0</version>
+</Package>
